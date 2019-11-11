@@ -1,6 +1,12 @@
 # Introduction
 
-Learning [Scala](https://www.scala-lang.org/download/).
+Learning [Scala](https://www.scala-lang.org/).
+
+# Installing Scala
+
+Go to Scala [download page](https://www.scala-lang.org/download/) and download `IntelliJ` or `sbt` depending on if you want to use a full-featured IDE or a command line build tool.
+
+If you do not wish to install Scala for every project and rather install it system-wide, scroll down to the bottom of the page and download the appropriate version of Scala for your platform.
 
 # Compiling
 
